@@ -1,0 +1,4 @@
+interface Pantallas{
+  void display();
+  
+}
